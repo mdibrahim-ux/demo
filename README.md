@@ -1,2 +1,2 @@
 # demo
-Author- Md Ibrahim
+Author- Mohammed Ibrahim
